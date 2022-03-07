@@ -28,7 +28,7 @@ public class Ex_7 {
 			j--;
 		}
 		
-		// Imprimir a matriz após a troca 
+		// Imprimir a matriz apÃ³s a troca 
 		
 		for(int ii = 0; ii < t.length; ii++) {
 			for(int jj = 0; jj < t.length; jj++) {			
@@ -37,5 +37,6 @@ public class Ex_7 {
 			System.out.println();
 		}
 		System.out.println();
+		//hehehe
 	}
 }
