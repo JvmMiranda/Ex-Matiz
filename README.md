@@ -1,2 +1,2 @@
-# Ex-Matiz
+# Ex-Matriz
 Exercícios de matriz
